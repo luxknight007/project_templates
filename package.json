@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/luxknight007/project_templates/issues"
   },
-  "homepage": "https://github.com/luxknight007/project_templates#readme"
+  "homepage": "https://github.com/luxknight007/project_templates#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "^3.0.1",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2"
+  }
 }
