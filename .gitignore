@@ -1,0 +1,8 @@
+node_modules/
+bower_components/
+coverage/
+docs/
+dist/
+.tmp/
+client/index.html
+.idea
